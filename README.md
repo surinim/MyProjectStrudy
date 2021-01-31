@@ -1,1 +1,1 @@
-# MyProjectStrudy
+# MyProjectStudy
